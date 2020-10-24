@@ -1,7 +1,7 @@
 {
   "name": "@ditdot-dev/vue-flow-form",
   "author": "DITDOT",
-  "description": "Create conversational conditional-logic forms with Vue.js.",
+  "description": "Fork from @ditdot-dev/vue-flow-form",
   "version": "1.1.3",
   "private": false,
   "repository": {
